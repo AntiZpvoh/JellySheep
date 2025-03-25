@@ -1,2 +1,2 @@
 # JellySheep
-Per、
+Perfect your podcast with **JellySheep**
